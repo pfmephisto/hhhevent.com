@@ -1,0 +1,138 @@
+baseURL = 'https://hhhevent.com/'
+languageCode = 'de-de'
+title = 'House - Hotel - Home'
+
+[markup.highlight]
+noclasses = false
+style = "github"
+
+[[module.imports]]
+path = "github.com/willfaught/paige"
+
+[params]
+[params.paige]
+enable_math = false # Enables math typesetting for this page
+exclude_feeds = false # Excludes this page from feeds
+exclude_search = false # Excludes this page from search
+style = "" # CSS included in a stylesheet for this page
+
+# [params.paige.alert]
+# message = "" # Markdown displayed before the page body for this page
+# type = "primary" # Bootstrap alert class for this page
+
+[params.paige.feeds]
+disable_link = false # Disables using the link parameter for the page URL
+page_link = "⏎" # Link to the page with this text if the link parameter is set and disable_link is false
+
+[params.paige.feeds.atom]
+authors = []
+# Example:
+# [[paige.feeds.atom.authors]]
+# email = "example@example.com"
+# name = "John Doe"
+# url = "https://github.com/account/project"
+icon = "" # Example: "/icon.webp"
+logo = "" # Example: "/logo.webp"
+
+[params.paige.feeds.rss]
+managing_editor = "" # Example: "example@example.com (John Doe)"
+web_master = "" # Example: "example@example.com (John Doe)"
+
+[params.paige.pages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_next = true
+disable_prev = true
+disable_reading_time = true
+disable_series = true
+disable_toc = true
+disable_word_count = true
+
+# Presentation
+full_width = false # Whether the page body fills the page width
+
+# Schema
+base_schema = {} # JSON-LD schema that all page schemas override
+# Example:
+# [paige.pages.base_schema]
+# isAccessibleForFree = true
+# isFamilyFriendly = true
+# [paige.pages.base_schema.publisher]
+# "@type" = "Organization"
+# name = "John Doe"
+# url = "https://example.com"
+disable_auto_schema = false # Disables the automatic JSON-LD schema generation
+microdata = {} # Microdata non-property attributes (all except itemprop) for the web page
+# Example:
+# [paige.pages.microdata]
+# itemid = "foo"
+# itemref = "bar"
+# itemscope = ""
+# itemtype = "https://schema.org/Chapter
+schemas = [] # JSON-LD schemas
+# Example:
+# [[paige.pages.schemas]]
+# "@context" = "https://schema.org"
+# "@type" = "Book"
+# name = "My Book"
+# url = "https://example.com"
+
+[params.paige.subpages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_reading_time = true
+disable_series = true
+disable_summary = true
+disable_word_count = true
+
+[params.paige.site]
+# Behavior
+date_format = ":date_long" # Hugo date format
+external_link_new_tab = false # Open external links in new tabs
+
+# Content
+disable_copyright = false
+disable_credit = false
+disable_description = false
+disable_license = false
+disable_title = false
+
+# Navigation
+disable_breadcrumbs = true 
+disable_menu = false
+
+# Presentation
+color = "#0d6efd" # Bootstrap primary color and theme color for Safari and Windows
+color_scheme = "light" # Must be "auto", "dark", or "light"
+keyword_style = "text" # Must be "text" or "pills"
+menu_style = "links" # Must be "links", "pills", "tabs", or "underline"
+
+# Repository
+edit_url = "" # Example: "https://github.com/account/project/edit/master/content/%s"
+history_url = "" # Example: "https://github.com/account/project/commits/master/content/%s"
+
+# Schema
+base_schema = {} # JSON-LD schema that all site schemas override
+# Example:
+# [paige.site.base_schema]
+# isAccessibleForFree = true
+# isFamilyFriendly = true
+# [paige.site.base_schema.publisher]
+# "@type" = "Organization"
+# name = "John Doe"
+# url = "https://example.com"
+schemas = [] # JSON-LD schemas
+# Example:
+# [[paige.site.schemas]]
+# "@context" = "https://schema.org"
+# "@type" = "Organization"
+# name = "Acme"
+# url = "https://example.com"
+
+# Values
+credit = '<a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige">Paige Theme</a>'
+description = "" # Site description. Appears above the menu and below the site title. Used in feeds.
+license = "" # Example: "CC BY 4.0 License"
+
