@@ -1,5 +1,5 @@
 baseURL = 'https://hhhevent.com/'
-languageCode = 'de-de'
+languageCode = 'en-De'
 title = 'House - Hotel - Home'
 
 [markup.highlight]
@@ -140,3 +140,17 @@ license = "" # Example: "CC BY 4.0 License"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[languages]
+  [languages.en]
+    contentDir = 'content/english'
+    languageName = 'English'
+    weight = 10
+  [languages.de]
+    contentDir = 'content/german'
+    languageName = 'Deutsch'
+    weight = 20
+  [languages.ru]
+    contentDir = 'content/russian'
+    languageName = 'Русский'
+    weight = 30
