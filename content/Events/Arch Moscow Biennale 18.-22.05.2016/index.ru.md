@@ -19,7 +19,7 @@ __19.05.16 Ключевые факторы успешного проекта г�
 {{< paige/figure caption="Images from day 01" >}}
 {{< paige/gallery align="start"  loading="lazy" type="rows" >}}
 
-{{< paige/figure caption="Переводчик Ксения Сперанская; Мариано Кавалери (архитектурное бюро Cavaleri Partnership, Кембридж)" >}}
+{{< paige/figure caption="Переводчик Ксения Сперанская; Мариано Кавалери (архитектурное бюро Cavaleri Partnership, Кембридж)" maxwidth="40rem">}}
 {{< paige/image src="DAY-01/HHH_Conference2.jpg" maxwidth="40rem" process="center lanczos picture webp" >}}
 {{< /paige/figure >}}
 
