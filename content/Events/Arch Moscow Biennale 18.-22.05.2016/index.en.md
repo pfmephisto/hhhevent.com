@@ -9,13 +9,22 @@ disable_sections = true
 disable_title = true
 +++
 
-## Day 01
+## Day 01 – Key Factors of a Successful Hotel Project
+__19.05.16__
 
-__19.05.16 Key factors of successful hotel project__
+As part of the HOTEL HOUSE HOME forum, the exhibition "Focusing on Hotel" introduced ARCH Moscow visitors to mock-ups of standard hotel rooms, including one created for "Holiday Inn" as part of the renovation of the "HI Sokolniki" hotel. These models reflect the latest standards for designing 3-star and 5-star hotels.
 
-The exhibition «Focusing on Hotel» was held as part of HOTEL HOUSE HOME forum and was introduce guests of ARCH Moscow to mock ups of standard rooms, including the one created for «Holiday Inn» as part of the reconstruction of “HI Sokolniki" hotel, according to the latest requirements for designing 3* and 5* hotels.
-The exhibitors will include manufacturers of specialised furnishings, decorative materials, flooring, furniture, decorative and technical lighting, and plumbing fixtures. There was a round table discussion, dedicated to design of hotels, where international hotel operators, developers, leading Russian and overseas architects and designers were invite to participate. 
-The Forum welcomed the following participants: Maria Sonne-Frederiksen – MSF Architecture, Architektenkammer BDA Hannover; Natalia Aristova – Design director Russia and CIS & Baltik & Skandinavia IHG; Ksenia Speranskaja - translator; Mariano Cavaleri (architectural practice Cavaleri Partnership, Cambridge); Tatjana Smotrjaeva - Deputy of General Director, HI Sokolniki; Sergej Yegorov - development director Russia and CIS, Wyndham Hotel Group, Anastasia Krumina - managing director “Hotel technology”
+Exhibitors included manufacturers of specialized furnishings, decorative materials, flooring, furniture, technical and decorative lighting, and plumbing fixtures.
+
+A roundtable discussion focused on hotel design brought together international hotel operators, developers, and leading Russian and foreign architects and designers. Participants included:
+
+ - Maria Sonne-Frederiksen – MSF Architecture, Architektenkammer BDA Hannover
+ - Natalia Aristova – Design Director for Russia, CIS, Baltics & Scandinavia at IHG
+ - Ksenia Speranskaja – Translator
+ - Mariano Cavaleri – Cavaleri Partnership, Cambridge
+ - Tatjana Smotrjaeva – Deputy General Director, HI Sokolniki
+ - Sergej Yegorov – Development Director for Russia and CIS, Wyndham Hotel Group
+ - Anastasia Krumina – Managing Director, "Hotel Technology"
 
 {{< paige/figure caption="Images from day 01" >}}
 {{< paige/gallery align="start"  loading="lazy" type="rows" >}}
@@ -53,31 +62,61 @@ The Forum welcomed the following participants: Maria Sonne-Frederiksen – MSF A
 {{< /paige/figure >}}
 
 
-## Day 02
+## Day 02 – Architecture for Longevity_
+__20.05.16__
 
-__20.05.16 Architecture for Longevity__
+A key topic of the HOTEL HOUSE HOME forum was the shortage of specialized housing with intuitive and inspiring design for people with disabilities and the elderly. The Russian–British roundtable "Architecture for Longevity" focused on identifying architectural solutions to address this issue. The discussion covered the design and development of housing tailored to these populations.
 
-The priority topic of HOTEL HOUSE HOME - is the lack of specialised housing offering intuitive and inspiring design for groups of people with disabilities and the elderly. A Russian-British round table "Architecture for Longevity" was dedicated to search for solutions to this pressing issue and raised questions of design and development of homes for the elderly and people with disabilities.
-The round table was attended by:
- - Leading architects from the United Kingdom, specialising in designing housing for the elderly and people with disabilities;
- - Representatives of UK housing associations involved in the development and construction of specialised housing for the elderly in the UK;
- - Representatives of leading developers and operators of social housing in the UK.
+Participants included:
+ - Leading architects from the United Kingdom specializing in housing for elderly and disabled people
+ - Representatives from UK housing associations involved in the development and construction of such housing
+ - Representatives from major UK developers and social housing operators
 
-Participants from the Russian side included representatives of the Moscow City Government, architects, operators of private care homes/hotels in Russia, developers and investors. The discussion was moderated by Mariano Cavaleri (architectural practice Cavaleri Partnership, Cambridge).
-Coordinator of the Russian-British Round Table - Ksenia Afonina, president of the Cambridge Russian-Speaking Society - a charity promoting Russian-British cultural projects and exchanges.
-Another strand of the HOTEL HOUSE HOME project – is targeting different types of properties with specialised architecture and interior design solutions to meet the needs of certain user groups through better understanding of their lifestyle and aspirations.
+From the Russian side, the roundtable welcomed representatives from the Moscow City Government, architects, developers, investors, and private care home operators.
+
+The discussion was moderated by Mariano Cavaleri (Cavaleri Partnership, Cambridge).
+The roundtable was coordinated by Ksenia Afonina, President of the Cambridge Russian-Speaking Society, a charity supporting Russian–British cultural exchanges and projects.
+
+Another direction of the HOTEL HOUSE HOME initiative is to identify target user groups for various types of real estate and to develop architectural and interior design solutions based on a deeper understanding of their lifestyle and needs.
 
 
-## Day 03
-__21.05.16 Where and how should student reside__
+## Day 03 – Where and How Should Students Reside
+__21.05.16__
 
-The project discussed such issues as the lagging supply in design and construction (renovation) of housing for young people and students. This and other challenging questions was addressed at an international forum "Where and how to live for a student?", which will brought together leading architects, developers and investors to share their experience in design, construction and operation of student dormitories, apartments for extended stays, and hotels for young people. "Student accommodation" – is a modern product, which is different from a budget hotel and combines elements of conventional student dormitory with those of a fashionable and comfortable living space for students, as well as for travellers. The forum discussed ways of combining the needs of different user groups, while avoiding compromises in comfort, convenience and efficiency; exchange knowledge and solutions developed in different European countries and analyse the prospects for their application in Russia. 
-The Forum welcomed the following participants: Povl-Filip Sonne Frederiksen, Mariano Cavaleri (architectural practice Cavaleri Partnership, Cambridge), Rector of the Moscow Architectural Institute - D.O. Shvidkovskiy, Head of „East Development“ Group of Companies - S.N. Ivantsov.
-Event’s Moderator - Marina Usenko – independent consultant in hospitality business.
+This session of the HOTEL HOUSE HOME project addressed the critical shortage in the design and construction (or renovation) of housing for young people and students. These topics were the focus of the international forum "Where and How Should Students Live?", which brought together leading architects, developers, and investors to exchange insights on the planning, construction, and operation of:
 
-### Student competition
-To address this in practice, an international student competition was held for the design and planning of the apartments in __The House of the Architect Student__, located in Moscow. Students had been invited to create a standard apartment with modern requirements to student accommodation, taking into account planning and design provisions of the building, constructed in 1968. The contest ran between 15th February to 15th April 2016. The winning projects was announced and presented during the HOTEL HOUSE HOME project. The jury included: Shvidkovskiy (Chairman) - Rector of the Moscow Architectural Institute D.O., V. Bychkov (Deputy Chairman) - organiser of the exhibition "ARCH Moscow", Maria Sonne-Frederiksen - architect, Sergey Ivantsov - Head of the Group of Companies "East Development", Ruben Arakelyan - architect, Mariano Cavaleri - Cavaleri Partnership, Cambridge, Anna Flank - Editor ELITE Interior. The three best works were awarded with diplomas and prizes. 
-Competition Coordinator: PovlFilip Sonne-Frederiksen, Sonia Bychkova.
+ - Student dormitories
+ - Extended-stay apartments
+ - Youth hotels
+
+Student accommodation is a modern housing product distinct from budget hotels. It combines elements of traditional student dormitories with the comfort and aesthetic of contemporary living spaces—catering not only to students but also to young travelers. The forum examined how to meet the needs of various user groups without compromising on comfort, convenience, or efficiency. It also explored how successful solutions from European countries might be adapted for the Russian context.
+
+Forum participants included:
+ - Povl Filip Sonne-Frederiksen
+ - Mariano Cavaleri – Cavaleri Partnership, Cambridge
+ - D.O. Shvidkovskiy – Rector, Moscow Architectural Institute
+ - S.N. Ivantsov – Head of the East Development Group of Companies
+
+Event Moderator: Marina Usenko – Independent consultant in the hospitality industry
+
+### Student Competition
+To apply these concepts in practice, an international student competition was launched to design a modern apartment layout for the House of the Architect Student, located in Moscow.
+
+Architecture students were invited to develop a prototype apartment that met contemporary requirements for student living, while working within the spatial and structural constraints of the building constructed in 1968. The layout had to include areas for work, rest, and social interaction.
+
+The competition ran from February 15 to April 15, 2016. The winning entries were announced and presented during the HOTEL HOUSE HOME project at ARCH Moscow.
+
+Jury members included:
+ - D.O. Shvidkovskiy (Chair) – Rector of the Moscow Architectural Institute
+ - V. Bychkov (Deputy Chair) – Organizer of the ARCH Moscow exhibition
+ - Maria Sonne-Frederiksen – Architect
+ - Sergey Ivantsov – Head of the East Development Group of Companies
+ - Ruben Arakelyan – Architect
+ - Mariano Cavaleri – Cavaleri Partnership, Cambridge
+ - Anna Flank – Editor, ELITE Interior
+
+The top three projects were awarded diplomas and prizes.
+Competition Coordinators: Povl Filip Sonne-Frederiksen and Sonia Bychkova
 
 {{< paige/figure caption="" >}}
 {{< paige/gallery align="start"  loading="lazy" type="rows"  >}}
@@ -95,12 +134,14 @@ Competition Coordinator: PovlFilip Sonne-Frederiksen, Sonia Bychkova.
 {{< /paige/gallery >}}
 {{< /paige/figure >}}
 
-## Exhibition two perspectives
+## Exhibition – Two Perspectives
 
-This exhibition showed only a small part of the personal artistic and historic legacy the young architects created during the war. It also features workув from their successful post-war architectural careers.
-Coordinator: Head of „East Development“ Group of Companies - S.N. Ivantsov
+This exhibition showcased only a small part of the personal artistic and historical legacy created by young architects during the war. It also included works from their successful post-war architectural careers.
 
-__Exhibitions__
+Coordinator:
+S.N. Ivantsov – Head of the East Development Group of Companies
+
+## Exhibitions
 
 {{< paige/figure caption="">}}
 {{< paige/gallery align="start"  loading="lazy" type="rows" >}}
