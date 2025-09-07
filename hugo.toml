@@ -2,6 +2,7 @@ baseURL = 'https://hhhevent.com/'
 languageCode = 'en-De'
 title = 'House - Hotel - Home'
 
+
 [markup.highlight]
 noclasses = false
 style = "github"
@@ -132,7 +133,8 @@ schemas = [] # JSON-LD schemas
 # url = "https://example.com"
 
 # Values
-credit = '<a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige">Paige Theme</a>'
+#credit = '<a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige">Paige Theme</a>'
+credit = " "
 description = "" # Site description. Appears above the menu and below the site title. Used in feeds.
 license = "" # Example: "CC BY 4.0 License"
 
@@ -141,13 +143,22 @@ license = "" # Example: "CC BY 4.0 License"
     [markup.goldmark.renderer]
       unsafe = true
 
+#defaultContentLanguage = 'en'
+#defaultContentLanguageInSubdir = false
+
 [languages]
   [languages.en]
     languageName = 'English'
+    #languagecode = "en-uk"
+    contentDir = 'content/en'
     weight = 10
   [languages.de]
     languageName = 'Deutsch'
+    #languagecode = "de-de"
+    contentDir = 'content/de'
     weight = 20
   [languages.ru]
     languageName = 'Русский'
+    contentDir = 'content/ru'
+    #languagecode = "ru-ru"
     weight = 30
