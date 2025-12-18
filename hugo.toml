@@ -149,16 +149,13 @@ license = "" # Example: "CC BY 4.0 License"
 [languages]
   [languages.en]
     languageName = 'English'
-    #languagecode = "en-uk"
-    contentDir = 'content/en'
+    languagecode = "en-uk"
     weight = 10
   [languages.de]
     languageName = 'Deutsch'
-    #languagecode = "de-de"
-    contentDir = 'content/de'
+    languagecode = "de-de"
     weight = 20
   [languages.ru]
     languageName = 'Русский'
-    contentDir = 'content/ru'
-    #languagecode = "ru-ru"
+    languagecode = "ru-ru"
     weight = 30
