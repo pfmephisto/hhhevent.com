@@ -81,19 +81,19 @@ __21.05.16__
 На выставке был построен макет эталонной комнаты для студента, за основу для реализации этой комнаты была взята комната в «Доме студента Архитектора» в г. Москве.
 Координаторы конкурса: Поль-Филип Сонне-Фредериксен, Соня Бычкова.
 
-{< paige/figure caption="" >}}
-{< paige/gallery align="start"  loading="lazy" type="rows"  >}}
+{{< paige/figure caption="" >}}
+{{< paige/gallery align="start"  loading="lazy" type="rows"  >}}
 
-{< paige/figure caption="Рубен Гавалбабунц, победитель Международного студенческого конкурса; Анастасия Воякина, призер Международного студенческого конкурса" maxwidth="40rem" >}}
-{< paige/image src="/Arch Moscow Biennale 18.-22.05.2016/students competition/HHH_Student competition2.jpg"  >}}
-{< /paige/figure >}}
+{{< paige/figure caption="Рубен Гавалбабунц, победитель Международного студенческого конкурса; Анастасия Воякина, призер Международного студенческого конкурса" maxwidth="40rem" >}}
+{{< paige/image src="/Arch Moscow Biennale 18.-22.05.2016/students competition/HHH_Student competition2.jpg"  >}}
+{{< /paige/figure >}}
 
-{< paige/figure caption="Ольга Воронежская, 2-е место Международного студенческого конкурса" maxwidth="40rem">}}
-{< paige/image src="/Arch Moscow Biennale 18.-22.05.2016/students competition/HHH_Student competition3.jpg" >}}
-{< /paige/figure >}}
+{{< paige/figure caption="Ольга Воронежская, 2-е место Международного студенческого конкурса" maxwidth="40rem">}}
+{{< paige/image src="/Arch Moscow Biennale 18.-22.05.2016/students competition/HHH_Student competition3.jpg" >}}
+{{< /paige/figure >}}
 
-{< /paige/gallery >}}
-{< /paige/figure >}}
+{{< /paige/gallery >}}
+{{< /paige/figure >}}
 
 ## Выставка военного рисунка
 

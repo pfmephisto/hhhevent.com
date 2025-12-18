@@ -117,19 +117,19 @@ Jury members included:
 The top three projects were awarded diplomas and prizes.
 Competition Coordinators: Povl Filip Sonne-Frederiksen and Sonia Bychkova
 
-{< paige/figure caption="" >}}
-{< paige/gallery align="start"  loading="lazy" type="rows"  >}}
+{{< paige/figure caption="" >}}
+{{< paige/gallery align="start"  loading="lazy" type="rows"  >}}
 
-{< paige/figure caption="Ruben Gavalbabunz - winner of the International student competition; Anastasia Voyakina – prize-winner of the International student competition" maxwidth="40rem" >}}
-{< paige/image src="/Arch Moscow Biennale 18.-22.05.2016/students competition/HHH_Student competition2.jpg"  >}}
-{< /paige/figure >}}
+{{< paige/figure caption="Ruben Gavalbabunz - winner of the International student competition; Anastasia Voyakina – prize-winner of the International student competition" maxwidth="40rem" >}}
+{{< paige/image src="/Arch Moscow Biennale 18.-22.05.2016/students competition/HHH_Student competition2.jpg"  >}}
+{{< /paige/figure >}}
 
-{< paige/figure caption="Olga Voronezskaya – 2nd place of the International student competition" maxwidth="40rem">}}
-{< paige/image src="/Arch Moscow Biennale 18.-22.05.2016/students competition/HHH_Student competition3.jpg" >}}
-{< /paige/figure >}}
+{{< paige/figure caption="Olga Voronezskaya – 2nd place of the International student competition" maxwidth="40rem">}}
+{{< paige/image src="/Arch Moscow Biennale 18.-22.05.2016/students competition/HHH_Student competition3.jpg" >}}
+{{< /paige/figure >}}
 
-{< /paige/gallery >}}
-{< /paige/figure >}}
+{{< /paige/gallery >}}
+{{< /paige/figure >}}
 
 ## Exhibition – Two Perspectives
 
