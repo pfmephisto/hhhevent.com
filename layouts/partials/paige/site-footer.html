@@ -1,0 +1,23 @@
+{{ $page := . }}
+
+<footer class="border-top mt-5 py-4 text-center text-muted" id="paige-site-footer">
+    <div class="container-xxl">
+        <p class="mb-1">
+            {{ if eq $.Site.Language.Lang "de" }}
+                <a href="/de/privacy-policy/">Datenschutzerklärung</a>
+            {{ else if eq $.Site.Language.Lang "ru" }}
+                <a href="/ru/privacy-policy/">Политика конфиденциальности</a>
+            {{ else }}
+                <a href="/privacy-policy/">Privacy Policy</a>
+            {{ end }}
+        </p>
+        
+        {{ with $page.Param "paige.site.license" }}
+            <p class="mb-1">{{ . | markdownify }}</p>
+        {{ end }}
+        
+        {{ with $page.Param "paige.site.credit" }}
+            <p class="mb-0 small">{{ . | markdownify }}</p>
+        {{ end }}
+    </div>
+</footer>

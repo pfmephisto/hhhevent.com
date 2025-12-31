@@ -3,3 +3,6 @@ path = "github.com/willfaught/paige"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/components/cookie-consent"
+
+[[imports]]
+path = "github.com/martignoni/hugo-cloak-email"
