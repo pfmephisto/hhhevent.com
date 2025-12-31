@@ -7,8 +7,6 @@ title = 'House - Hotel - Home'
 noclasses = false
 style = "github"
 
-[[module.imports]]
-path = "github.com/willfaught/paige"
 
 [params]
 [params.paige]
@@ -138,6 +136,13 @@ credit = " "
 description = "" # Site description. Appears above the menu and below the site title. Used in feeds.
 license = "" # Example: "CC BY 4.0 License"
 
+[[params.plugins.js]]
+link = "plugins/cookie.js"
+lazy = false
+[[params.plugins.js]]
+link = "cookie-consent.js"
+lazy = false
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -159,3 +164,11 @@ license = "" # Example: "CC BY 4.0 License"
     languageName = 'Русский'
     languagecode = "ru-ru"
     weight = 30
+
+
+# cookies
+[cookies]
+enable = true
+expire_days = 60
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"

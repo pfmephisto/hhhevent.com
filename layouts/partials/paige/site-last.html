@@ -1,3 +1,18 @@
+<!-- Load Cookies.js library from hugo module -->
+{{ with resources.Get "plugins/cookie.js" }}
+  {{ $js := . | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" {{ with $js.Data.Integrity }} integrity="{{ . }}" {{ end }}></script>
+{{ end }}
+
+<!-- cookie consent -->
+{{ partialCached "cookie-consent.html" . }}
+
+<!-- Load Google Consent Mode integration -->
+{{ with resources.Get "cookie-consent.js" }}
+  {{ $js := . | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" {{ with $js.Data.Integrity }} integrity="{{ . }}" {{ end }}></script>
+{{ end }}
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FV1X8P68YP"></script>
 <script>
