@@ -2,6 +2,16 @@ baseURL = 'https://hhhevent.com/'
 languageCode = 'en-De'
 title = 'House - Hotel - Home'
 
+[imaging]
+resampleFilter = "lanczos"
+quality = 80
+anchor = "center"
+
+[imaging.exif]
+disableDate = false
+disableLatLong = true
+includeFields = ""
+excludeFields = ""
 
 [markup.highlight]
 noclasses = false
@@ -171,4 +181,8 @@ lazy = false
 enable = true
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+button_accept_all = "Accept All"
+button_accept_selection = "Accept Selection"
+label_necessary = "Necessary cookies"
+label_analytics = "Analytics cookies"
+label_advertising = "Advertising cookies"

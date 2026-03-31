@@ -1,9 +1,10 @@
 +++
-title = "Events"
+title = "Veranstaltungen"
+weight = 30
 
 [paige.pages]
 disable_collections = true
-disable_pages = false
-disable_sections = true
+disable_pages = true
+disable_sections = false
 disable_title = true
 +++

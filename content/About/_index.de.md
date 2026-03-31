@@ -1,5 +1,6 @@
 +++
-title = "About"
+title = "Über uns"
+weight = 10
 
 [paige.pages]
 disable_collections = true

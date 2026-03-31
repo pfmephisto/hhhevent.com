@@ -24,6 +24,8 @@
           packages = with pkgs; [
             hugo
             github-copilot-cli
+            claude-code
+            git-lfs
           ];
         };
       }
